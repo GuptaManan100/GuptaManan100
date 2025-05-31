@@ -41,7 +41,7 @@ I’m **Manan Gupta**, a software engineer specializing in scalable distributed 
 
 ### Blog Posts
 
-I regularly share insights on distributed systems, Vitess internals, and open-source development. You can find all of my technical and personal blog posts at [My Blog](https://guptamanan100.github.io). Feel free to check back soon for new content!
+I regularly share insights on distributed systems, Vitess internals, and open-source development. You can find all of my technical and personal blog posts at [B<sup>3</sup>: Bytes Beats Books](https://guptamanan100.github.io). Feel free to check back soon for new content!
 
 ---
 
