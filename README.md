@@ -37,6 +37,9 @@ I’m **Manan Gupta**, a software engineer specializing in scalable distributed 
 - **MySQL Belgian Days 2025** – *Atomic Distributed Transactions*  
   [Watch the talk](https://youtu.be/TjyzDlQEgdU?si=1SuEQNRwDBnRhxUq)
 
+- **PGDay Mumbai 2026** - *Horizontal scalability and intelligent sharding with Multigres on Postgres*  
+  [Watch the talk](https://www.youtube.com/live/UHtbhTi9XTQ?si=9WTyA4zWoKTY3Ux8&t=18812)
+
 ---
 
 ### Blog Posts
